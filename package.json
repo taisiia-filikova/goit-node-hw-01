@@ -1,0 +1,30 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "ДЗ 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taisiia-filikova/goit-node-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taisiia-filikova/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/taisiia-filikova/goit-node-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "shortid": "^2.2.16",
+    "yargs": "^16.2.0"
+  }
+}
